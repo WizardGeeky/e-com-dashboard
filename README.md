@@ -1,6 +1,6 @@
 # ✨  E-Commerce Admin Dashboard
 
-A sleek and responsive **E-Commerce Admin Dashboard** built with **Next.js 15 (App Router)**, **TypeScript**, **Tailwind CSS**, and **Tanstack Query**. This dashboard seamlessly integrates with the **Fake Store API** to manage product data, featuring a modern user interface and advanced functionalities such as product filtering, dynamic product detail views, and a dark/light mode toggle.
+A sleek and responsive **E-Commerce Admin Dashboard** built with **Next.js 15 (App Router)**, **TypeScript**, **Tailwind CSS**. This dashboard seamlessly integrates with the **Fake Store API** to manage product data, featuring a modern user interface and advanced functionalities such as product filtering, dynamic product detail views, and a dark/light mode toggle.
 
 ---
 ## 🌍 **Live**
