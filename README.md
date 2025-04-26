@@ -7,6 +7,11 @@ A sleek and responsive **E-Commerce Admin Dashboard** built with **Next.js 15 (A
 
 https://e-com-lake-seven.vercel.app/
 
+
+![image](https://github.com/user-attachments/assets/51a1be17-cca9-4da8-8310-1811db6af411)
+
+
+
 ## 🔑 **Key Features**
 
 ### **Dashboard Layout**
